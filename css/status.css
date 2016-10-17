@@ -1,0 +1,56 @@
+h1 {
+    font-size: 20px;
+    font-family: 'Roboto Condensed';
+}
+
+div {
+    background-color: whitesmoke;
+    padding: 1%;
+}
+
+input {
+    width: 100%;
+}
+
+.inputgrp {
+    border: 1px solid #ddd;
+    margin: 7%;
+}
+
+section {
+    float: left;
+    margin-left: 20px;
+}
+
+#projectgrp {
+    width: 33.33%;
+}
+
+.textarea {
+    margin-top: 50px;
+    margin-left: 14px;
+    width: 52%;
+    height: 100px;
+}
+
+button {
+    background-color: #3276b1;
+    border-color: #2c699d;
+    display: block;
+    margin: 5% 2% 5% 50%;
+    color: white;
+}
+
+button:hover {
+    background-color: #3276b1;
+    border-color: #2c699d;
+}
+
+h2 {
+    font-size: 15px;
+}
+
+.dom {
+    margin-top: 20px;
+    margin: 7%;
+}
